@@ -2,7 +2,7 @@
 
 这是 [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) 的 Codex 适配版。
 
-原项目是面向 Claude Code 的长篇中文网文创作插件，提供新书初始化、卷纲规划、章节写作、质量审查、状态查询、长期记忆、RAG 检索和只读 Dashboard。本仓库的目标不是重写它，而是把原有能力迁移成 Codex 可以安装和识别的本地插件。
+原项目是面向 Claude Code 的长篇中文网文创作插件，提供新书初始化、卷纲规划、章节写作、质量审查、状态查询、长期记忆、RAG 检索和只读 Dashboard。如果你想尝试使用lingfeng大佬的插件来进行创作但又迫于A÷的封号压力与高昂的价格，不妨试试该项目。
 
 ## 相较原版的改动
 
