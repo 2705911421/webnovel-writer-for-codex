@@ -1,0 +1,40 @@
+{
+  "name": "webnovel-writer",
+  "version": "6.2.1+codex.20260709",
+  "description": "Long-form Chinese webnovel creation system for Codex, adapted from the Claude Code plugin.",
+  "author": {
+    "name": "lingfengQAQ; Codex adaptation by 2705911421",
+    "url": "https://github.com/2705911421/webnovel-writer-for-codex"
+  },
+  "homepage": "https://github.com/2705911421/webnovel-writer-for-codex",
+  "repository": "https://github.com/2705911421/webnovel-writer-for-codex",
+  "license": "GPL-3.0",
+  "keywords": [
+    "webnovel",
+    "codex",
+    "skills",
+    "agents",
+    "rag",
+    "writing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Webnovel Writer",
+    "shortDescription": "Chinese long-form webnovel planning, writing, review, memory, and dashboard workflows.",
+    "longDescription": "A Codex-adapted local plugin for long-form Chinese webnovel creation. It preserves the original Webnovel Writer skills, agents, scripts, templates, references, RAG helpers, story-state pipeline, and read-only dashboard, while adding Codex-specific environment guidance. Original project: lingfengQAQ/webnovel-writer.",
+    "developerName": "lingfengQAQ / 2705911421",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Review",
+      "Interactive"
+    ],
+    "websiteURL": "https://github.com/2705911421/webnovel-writer-for-codex",
+    "defaultPrompt": [
+      "? Webnovel Writer ?????????",
+      "? Webnovel Writer ??? 1 ??",
+      "? Webnovel Writer ???????"
+    ],
+    "brandColor": "#2563EB"
+  }
+}
