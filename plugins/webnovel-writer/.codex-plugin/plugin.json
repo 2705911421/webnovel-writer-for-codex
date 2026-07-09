@@ -31,9 +31,9 @@
     ],
     "websiteURL": "https://github.com/2705911421/webnovel-writer-for-codex",
     "defaultPrompt": [
-      "? Webnovel Writer ?????????",
-      "? Webnovel Writer ??? 1 ??",
-      "? Webnovel Writer ???????"
+      "用 Webnovel Writer 初始化一本新网文。",
+      "用 Webnovel Writer 规划第 1 卷。",
+      "用 Webnovel Writer 审查最近章节。"
     ],
     "brandColor": "#2563EB"
   }
